@@ -1,0 +1,15 @@
+Grape___Black_rot
+Grape___Leaf_blight
+Grape___Esca
+Grape___healthy
+Corn___healthy
+Corn___Northern_Leaf_Blight
+Corn___Common_rust
+Corn___Cercospora_leaf_spot
+Cherry___healthy
+Cherry___Powdery_mildew
+Blueberry___healthy
+Apple___healthy
+Apple___Cedar_apple_rust
+Peach___Bacterial_spot
+Orange___Haunglongbing
